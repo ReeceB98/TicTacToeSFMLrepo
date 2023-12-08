@@ -1,6 +1,7 @@
-﻿  main.cpp
+﻿  Game.cpp
+  main.cpp
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  TicTacToeSFML.vcxproj -> C:\VisualStudio\TicTacToeSFML\x64\Release\TicTacToeSFML.exe
+  TicTacToeSFML.vcxproj -> C:\VisualStudio\TicTacToeSFMLrepo\TicTacToeSFML\x64\Release\TicTacToeSFML.exe

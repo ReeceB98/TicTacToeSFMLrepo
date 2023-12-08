@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\VisualStudio\TicTacToeSFML\x64\Release\TicTacToeSFML.exe</FullPath>
+      <FullPath>C:\VisualStudio\TicTacToeSFMLrepo\TicTacToeSFML\x64\Release\TicTacToeSFML.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
