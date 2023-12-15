@@ -19,6 +19,10 @@ private:
 
 	// Variables
 	sf::RenderWindow window;
-	sf::CircleShape* shape;
+	//sf::CircleShape* shape;
+	sf::RectangleShape* shape;
+
+	sf::Texture* texture;
+	sf::Sprite* sprite;
 };
 
